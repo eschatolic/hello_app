@@ -1,0 +1,1 @@
+Simple "hello, world" app to test Ruby on Rails installation.
